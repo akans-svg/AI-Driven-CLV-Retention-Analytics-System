@@ -1,0 +1,3 @@
+Import customers_large.csv
+Create KPIs: Total Customers, Avg CLV, Churn %
+Create charts: Revenue trend, Segment distribution, CLV analysis.

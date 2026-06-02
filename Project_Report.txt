@@ -1,0 +1,6 @@
+AI-Driven Customer Lifetime Value & Retention Analytics System
+
+This project integrates Data Analytics, Machine Learning, Business
+Intelligence, and AI Explainability. It predicts customer churn,
+estimates CLV, performs segmentation, and provides actionable business
+insights.
